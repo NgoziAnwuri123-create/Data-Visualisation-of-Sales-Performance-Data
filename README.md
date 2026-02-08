@@ -29,7 +29,7 @@ Operational Insights:
 - Identified 2013–2016 revenue declines required deeper analysis of regional operational costs and supply chain inefficiencies.
   
 Recommendations
-- Revise Sales Targets & Benchmarks: Align sales targets with current market conditions and ensure they reflect growth ambitions 
+- Revise Sales Targets & Benchmarks: Align sales targets with current market conditions and ensure they reflect growth ambitions.
 - Address 2013–2016 Revenue Declines: Cost Control Measures: Audit regional operational costs for discrepancies (e.g., labour, logistics).
 - Supply Chain Optimisation: Re-evaluate vendor contracts and reduce procurement costs.
 - Marketing Strategy Review: Reassess campaigns to reignite growth in underperforming regions.
