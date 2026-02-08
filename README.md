@@ -6,7 +6,7 @@ Business Problem
 Our organisation faced challenges in understanding historical sales and profit trends from 2010–2017. Despite exceeding annual sales targets of £15M, critical insights into declining revenue (2013–2016) and unmet profit goals of £1M remained unclear. This analysis aimed to unlock actionable insights to inform strategic decision-making and address operational inefficiencies.
 
 Technologies Used
-- MySQL and Excel: ETL processes utilised, KPI Modelling in SQL was used to calculate core metrics (e.g., annual revenue, profit margins, growth rates).
+- SQL and Excel: ETL processes utilised, KPI Modelling in SQL was used to calculate core metrics (e.g., annual revenue, profit margins, growth rates).
 - Power Bi: This was used for data analysis, DAX modelling, identifying trends and patterns to create dynamic visualisations.
 
 Key Concepts Applied
