@@ -1,4 +1,5 @@
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/296c41a4-7999-475b-9532-67b2a4596832" />
+
 # Project Summary: Historical Sales & Profit Trend Analysis of Digital Echoes (2010–2017) 
 
 Business Problem
