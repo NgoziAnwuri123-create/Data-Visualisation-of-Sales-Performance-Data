@@ -7,26 +7,26 @@ Our organisation faced challenges in understanding historical sales and profit t
 
 Technologies Used
 - MySQL and Excel: ETL processes utilised, KPI Modelling in SQL was used to to calculate core metrics (e.g., annual revenue, profit margins, growth rates).
-- Power Bi: This was used for data analysis identifying trends, DAX modelling  and to create visualisation 
+- Power Bi: This was used for data analysis, using DAX modelling, identifying trends and patterns and to create dynamic visualisations.
 
 Key Concepts Applied
 - ETL (Extract, Transform, Load): Automated workflows to streamline data preparation.
 - KPI Calculation: Derived metrics such as total sales, average profit, percentage change  
-- DAX Modelling: Advanced formulas, date and time function 
+- DAX Modelling: Advanced formulas, date and time functions. 
 - Data Visualisation: Power BI dashboards to highlight critical insights for stakeholders.
 
 Outcome & Impact
-- Sales Performance:
-Total annual sales targets (£15M) were exceeded from 2010–2017.
-A 186% revenue surge from 2010–2011 indicated significant market break through
-Decline in annual revenue from 2013–2016 flagged potential market saturation or competitive pressures.
+Sales Performance:
+- Total annual sales targets (£15M) were exceeded from 2010–2017.
+- A 186% revenue surge from 2010–2011 indicated significant market break through.
+- Decline in annual revenue from 2013–2016 flagged potential market saturation or competitive pressures.
   
-- Profitability Trends:
-Profit targets (£1M) were unmet across the 2010–2017 period.
-Steady profit growth: 83% (2011–2012), 35% (2015–2016), and 4% (2016–2017), suggesting improved cost efficiency post-2015.
+Profitability Trends:
+- Profit targets (£1M) were unmet across the 2010–2017 period.
+- Steady profit growth: 83% (2011–2012), 35% (2015–2016), and 4% (2016–2017), suggesting improved cost efficiency post-2015.
   
-- Operational Insights:
-Identified 2013–2016 revenue declines required deeper analysis of regional operational costs and supply chain inefficiencies.
+Operational Insights:
+- Identified 2013–2016 revenue declines required deeper analysis of regional operational costs and supply chain inefficiencies.
   
 Recommendations
 - Revise Sales Targets & Benchmarks: Align sales targets with current market conditions and ensure they reflect growth ambitions 
@@ -38,5 +38,5 @@ Recommendations
 - Cross-Functional Collaboration: Partner with marketing, finance, and operations to align data-driven strategies (e.g., targeted promotions, budget reallocation).
 
 Conclusion
-This project delivered a robust analytical framework using SQL, Excel, and Power BI to uncover critical trends in sales and profit performance. The insights gained have enabled informed strategic planning, particularly in addressing historical profit shortfalls and declining revenue periods. By leveraging these findings, digital echoes is now better positioned to optimise operational efficiencies, refine targets, and future-proof its financial strategy.
+This project delivered a robust analytical framework using SQL, Excel, and Power BI to uncover critical trends in sales and profit performance. The insights gained have enabled informed strategic planning, particularly in addressing historical profit shortfalls and declining revenue periods by leveraging these findings, digital echoes is now better positioned to optimise operational efficiencies, refine targets, and future-proof its financial strategy.
 
