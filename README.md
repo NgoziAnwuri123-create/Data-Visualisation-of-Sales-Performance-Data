@@ -38,4 +38,4 @@ Recommendations
 Conclusion
 This project delivered a robust analytical framework using SQL, Excel, and Power BI to uncover critical trends in sales and profit performance. The insights gained have enabled informed strategic planning, particularly in addressing historical profit shortfalls and declining revenue periods by leveraging these findings, digital echoes is now better positioned to optimise operational efficiencies, refine targets, and future-proof its financial strategy.
 
-https://app.powerbi.com/reportEmbed?reportId=f92e3267-ba8c-472a-8ade-b3ca8366f423&autoAuth=true&ctid=2b63bb76-2269-4d0d-8114-4ca6b86f8528
+https://app.powerbi.com/view?r=eyJrIjoiMDc0OWMzOWUtZjRkZC00ZmZjLTg3NTItNzVkYjJkZWFhMmU5IiwidCI6IjJiNjNiYjc2LTIyNjktNGQwZC04MTE0LTRjYTZiODZmODUyOCJ9
